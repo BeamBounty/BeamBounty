@@ -1,5 +1,5 @@
 # Hello, I'm Matt!?
-👨‍🎓 Graduate of Computer Science from the University of Bridgeport<br>💻 Former Software Engineering Intern and STEM Tutor<br>👨‍💻 Fascinated with all things tech<br>🛠️ Love breaking and fixing code<br>
+👨‍🎓 Graduate of Computer Science from the University of Bridgeport<br>💻 Software Engineer<br>🛠️ You break it, I fix it <br>
 
 
 ## 🌐 Socials:
